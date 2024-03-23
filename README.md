@@ -2,6 +2,9 @@
 
 ## Unleash the Power of IoT with Flexible Connectivity
 
+![Screenshot 2024-03-23 122417](https://github.com/Daniel4bit/IoT-EMBEDDED-for-PLC-Environment/assets/65249875/dfae67ac-d803-428f-a4f4-16101cf6f7e6)
+
+
 This feature-rich development board utilizes the ESP-WROOM-32D module, providing a robust platform for connecting your project to the Industrial Internet of Things (IIoT) or any PLC environment.
 
 ## Key functionalities:
@@ -27,3 +30,4 @@ Battery-powered IIoT projects
 
 
 ## This board empowers you to develop powerful and adaptable IoT solutions that streamline communication and control within your PLC environment.
+
